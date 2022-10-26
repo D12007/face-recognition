@@ -1,0 +1,17 @@
+#camera{
+    width:350px;
+    height:300px;
+    border: dotted black 2px;
+}
+#result{
+    width:350px;
+    height:300px;
+    border: dotted black 2px;
+}
+body{
+    background: linear-gradient(45deg,rgb(230, 163, 230),rgb(99, 57, 129),rgb(112, 112, 224),rgb(119, 224, 119),rgb(233, 233, 118),rgb(233, 197, 129),rgb(241, 79, 79));
+}
+#h1{
+   color:white;
+    background: linear-gradient(180deg,rgb(230, 163, 230),rgb(99, 57, 129),rgb(112, 112, 224),rgb(119, 224, 119),rgb(233, 233, 118),rgb(233, 197, 129),rgb(241, 79, 79));;
+}
